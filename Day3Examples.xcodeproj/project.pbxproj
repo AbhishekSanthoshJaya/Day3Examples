@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		9B1AFBE423EE1ADE00F521E8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1AFBE323EE1ADE00F521E8 /* main.swift */; };
+		9B1AFBEB23EE249700F521E8 /* SStudent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1AFBEA23EE249700F521E8 /* SStudent.swift */; };
+		9B1AFBED23EE25B200F521E8 /* CStudent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1AFBEC23EE25B200F521E8 /* CStudent.swift */; };
+		9B1AFBEF23EE2BD600F521E8 /* Students.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1AFBEE23EE2BD600F521E8 /* Students.swift */; };
+		9B1AFBF123EE417B00F521E8 /* Employee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1AFBF023EE417B00F521E8 /* Employee.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,10 @@
 /* Begin PBXFileReference section */
 		9B1AFBE023EE1ADE00F521E8 /* Day3Examples */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Day3Examples; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B1AFBE323EE1ADE00F521E8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9B1AFBEA23EE249700F521E8 /* SStudent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SStudent.swift; sourceTree = "<group>"; };
+		9B1AFBEC23EE25B200F521E8 /* CStudent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CStudent.swift; sourceTree = "<group>"; };
+		9B1AFBEE23EE2BD600F521E8 /* Students.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Students.swift; sourceTree = "<group>"; };
+		9B1AFBF023EE417B00F521E8 /* Employee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Employee.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,10 @@
 			isa = PBXGroup;
 			children = (
 				9B1AFBE323EE1ADE00F521E8 /* main.swift */,
+				9B1AFBEA23EE249700F521E8 /* SStudent.swift */,
+				9B1AFBEC23EE25B200F521E8 /* CStudent.swift */,
+				9B1AFBEE23EE2BD600F521E8 /* Students.swift */,
+				9B1AFBF023EE417B00F521E8 /* Employee.swift */,
 			);
 			path = Day3Examples;
 			sourceTree = "<group>";
@@ -121,6 +133,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				9B1AFBE423EE1ADE00F521E8 /* main.swift in Sources */,
+				9B1AFBEB23EE249700F521E8 /* SStudent.swift in Sources */,
+				9B1AFBED23EE25B200F521E8 /* CStudent.swift in Sources */,
+				9B1AFBF123EE417B00F521E8 /* Employee.swift in Sources */,
+				9B1AFBEF23EE2BD600F521E8 /* Students.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
